@@ -38,8 +38,10 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  
+  var sum=x+y;
+  return sum;
 }
+suma(5,1);
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
